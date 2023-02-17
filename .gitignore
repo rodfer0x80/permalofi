@@ -1,2 +1,8 @@
+media/
 ./media
+media/*
+./media/*
+config
+configs
+.config
 .configs
