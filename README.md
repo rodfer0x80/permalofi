@@ -6,6 +6,7 @@
 ffmpeg
 open port 554
 bash
+yt-dlp (optional)
 ````
 
 ## Usage
